@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+.margin-btm-80{
+    margin-bottom: 80px;
+}
+
+.no-m-bottom{
+    margin-bottom: 0px;
+} 
+
+.m-top-20{
+    margin-top: 20px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}

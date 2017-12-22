@@ -1,0 +1,7 @@
+.back-img{
+    background: url('../../assets/img/plumbing.jpg') no-repeat scroll center center / cover rgba(0, 0, 0, 0);
+    height: 356px;
+    padding-top: 10px;
+    padding-bottom: 3%;
+    z-index: 4;
+}
